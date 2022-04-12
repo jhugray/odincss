@@ -59,8 +59,9 @@ li a {
   border-style: none;
   font-size: 18px;
   padding: 10px 35px;
+  margin: 18px;
 }
-:hover .button1 {
+.button1:hover {
   border-color: white;
   border-style: ridge;
 }
