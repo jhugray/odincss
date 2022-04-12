@@ -28,17 +28,39 @@ li a {
   color: #e5e7eb;
   padding: 14px 16px;
 }
-/* aside {
-  display: block;
-  padding: 0px;
-  margin: 0px;
-} */
+.asides {
+  display: flex;
+}
+.asideLeft {
+  flex-direction: column;
+  flex: 1;
+  justify-content: space-around;
+}
+.asideRight {
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-around; 
+}
+
 .heroHeader {
   margin: 0px;
   font-weight: 800;
   font-size: 48px;
 }
 .sideImg {
-  float: right;
-  border: white;
+  border: #E5E7EB;
+  border-radius: 20px;
+  max-width: 100%;
+}
+.button1 {
+  background-color: #3882F6;
+  color: #E5E7EB;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 18px;
+  padding: 10px 35px;
+}
+:hover .button1 {
+  border-color: white;
+  border-style: ridge;
 }
