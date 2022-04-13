@@ -121,3 +121,8 @@ h2 {
   margin: 75px 20px;
   padding: 10px 40px;
 } 
+footer {
+  background-color: #1F2937;
+  color:#E5E7EB;
+  text-align: center;
+}
