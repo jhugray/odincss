@@ -44,7 +44,7 @@ li a {
 
 .heroHeader {
   margin: 0px;
-  font-weight: 800;
+  font-weight: 900;
   font-size: 48px;
 }
 .sideImg {
@@ -64,4 +64,21 @@ li a {
 .button1:hover {
   border-color: white;
   border-style: ridge;
+}
+h2 {
+  font-weight: 900;
+  font-size: 36px;
+  color: #1f2937;
+  text-align: center;
+}
+.imageContainer {
+  display: flex;
+}
+
+.imageContainer img {
+  border-radius: 20px;
+  border: solid 5px #3882F6;
+  padding: 0px;
+  width:175px;
+  height:175px;
 }
