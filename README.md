@@ -13,3 +13,6 @@ A wireframe of how the finished site should look was provided.
 ## Outcome
 
 [Check out the deployed site.](https://jhugray.github.io/odincss/)
+
+<img width="800" alt="deployed site" src="https://user-images.githubusercontent.com/59127869/164007708-305092a6-fd7b-4c65-998a-f71f22e736d4.png">
+
